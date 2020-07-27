@@ -1,6 +1,6 @@
 # datamodel-app-template
 
-A [Boilerplato](https://github.com/boilerplato/boilerplato) template for [`DataModel`](https://github.com/chartshq/datamodel).
+A [Boilerplato](https://github.com/boilerplato/boilerplato) template for a simple app using [`DataModel`](https://github.com/chartshq/datamodel).
 
 ## Usage
 
