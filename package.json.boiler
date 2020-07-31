@@ -32,6 +32,6 @@
     "worker-loader": "^2.0.0"
   },
   "dependencies": {
-    "@chartshq/datamodel": "https://github.com/chartshq/datamodel.git"
+    "@chartshq/datamodel": "^3.0.0"
   }
 }
